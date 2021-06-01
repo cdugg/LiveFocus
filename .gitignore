@@ -1,0 +1,19 @@
+# Add files names (and patterns) you want git to ignore here.
+
+# Ignore java .class files.
+*.class
+
+# Ignore compiled C/C++ files.
+*.o
+
+# Ignore everything in the build directory.
+build/
+
+# Do not store node modules in your repo.
+node_modules/
+/2021-ca400-duggac27-hammons2.iml
+/.idea/
+/test.mp4
+/Files/
+/src/saveDirectory.txt
+src/saveDirectory.txt
